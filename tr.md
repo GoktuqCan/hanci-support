@@ -1,118 +1,84 @@
----
-layout: default
----
+[For English version](../)
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Gizlilik Politikası
 
-[Link to another page](./another-page.html).
+Yürürlük tarihi: 22 Haziran 2019
 
-There should be whitespace between paragraphs.
+Hancı("biz") https://hanci.app web sitesini ve Hancı mobil uygulamasını işletmektedir("Hizmet").
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Bu sayfa, Hizmetimizi kullandığınızda kişisel verilerinizin toplanması, kullanılması ve açıklanması ile ilgili politikalarımızı ve bu verilerle ilişkilendirdiğiniz seçimleri size bildirir. Hancı için Gizlilik Politikamız, [Free Privacy Policy Generator](./https://www.freeprivacypolicy.com/free-privacy-policy-generator.php) yardımı ile oluşturulmuştur.
 
-# Gizlilik Sözleşmesi
+Verilerinizi Hizmeti sağlamak ve geliştirmek için kullanıyoruz. Hizmeti kullanarak, bilgilerin bu politikaya uygun olarak toplanmasını ve kullanılmasını kabul edersiniz. Bu Gizlilik Politikasında aksi belirtilmediği sürece, bu Gizlilik Politikasında kullanılan terimler, Hüküm ve Koşullarımızdakiyle aynı anlamlara sahiptir.
 
-Effective date: June 22, 2019
+## Bilgi Toplama ve Kullanımı
 
-Hancı ("us", "we", or "our") operates the https://hanci.app website and the Hancı mobile application (the "Service").
+Hizmetimizi size sunmak ve geliştirmek için çeşitli amaçlar için birkaç farklı türde bilgi topluyoruz.
 
-This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our
-    Service and the choices you have associated with that data. Our Privacy Policy for Hancı is created with the help of
-    the <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator.php">Free Privacy Policy Generator</a>.
+### Toplanan Veri Türleri
+#### Kişisel Veri
+Hizmetimizi kullanırken, sizinle iletişim kurmak veya sizi tanımlamak için kullanılabilecek kişisel olarak tanımlanabilir bazı bilgiler ("Kişisel Veriler") sağlamanızı isteyebiliriz. Kişisel olarak tanımlanabilir bilgiler şunları içerebilir, ancak bunlarla sınırlı değildir:
 
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of
-    information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this
-    Privacy Policy have the same meanings as in our Terms and Conditions.
-## Information Collection And Use
+*   E-post adresi
+*   Ad ve soyad
+*   Çerezler ve Kullanım Verileri
 
-We collect several different types of information for various purposes to provide and improve our Service to you.
+#### Kullanım Verisi
+Ayrıca, Hizmetimizi her ziyaret ettiğinizde tarayıcınızın gönderdiği bilgileri veya Hizmete erişirken bir mobil cihaz aracılığıyla olan bilgileri de toplayabiliriz ("Kullanım Verileri").
 
-### Types of Data Collected
-#### Personal Data
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be
-    used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not
-    limited to:
+Bu Kullanım Verileri, bilgisayarınızın İnternet Protokolü adresi (örn. IP adresi), tarayıcı türü, tarayıcı sürümü, ziyaret ettiğiniz Servis sayfalarımız, ziyaretinizin saati ve tarihi, bu sayfalarda harcanan zaman, benzersiz cihaz tanımlayıcıları(ID) ve diğer teşhis verileri.
 
-*   Email address
-*   First name and last name
-*   Cookies and Usage Data
+Servise bir mobil cihaz üzerinden veya bir cihaz aracılığıyla eriştiğinizde, bu Kullanım Verileri, kullandığınız mobil cihaz türü, mobil cihaz benzersiz kimliğiniz, mobil cihazınızın IP adresi, mobil işletim sisteminiz, türünüz gibi bilgileri içerebilir. kullandığınız mobil İnternet tarayıcısı, benzersiz cihaz tanımlayıcıları(ID) ve diğer tanılama verileri.
+#### İzleme ve Çerez Verileri
+Hizmetimizdeki etkinliği izlemek ve belirli bilgileri tutmak için çerezleri ve benzeri izleme teknolojilerini kullanıyoruz.
 
-#### Usage Data
-We may also collect information that your browser sends whenever you visit our Service or when you access the Service
-    by or through a mobile device ("Usage Data").
+Çerezler, anonim bir benzersiz tanımlayıcı(ID) içerebilecek az miktarda veri içeren dosyalardır. Ayrıca kullanılan izleme teknolojileri, bilgi toplamak ve takip etmek, Hizmetimizi geliştirmek ve analiz etmek için işaretler, etiketler ve komut dosyalarıdır.
 
-This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser
-    type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on
-    those pages, unique device identifiers and other diagnostic data.
+Tarayıcınızdan tüm çerezleri reddetmesi veya bir çerezin ne zaman gönderileceğini belirtmesi için talimat verebilirsiniz. Bununla birlikte, çerezleri kabul etmiyorsanız, Hizmetimizin bazı bölümlerini kullanamayabilirsiniz.
 
-When you access the Service by or through a mobile device, this Usage Data may include information such as the type
-    of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating
-    system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data.
-#### Tracking & Cookies Data
-We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+Kullandığımız Çerezlere Örnekler:
+*   **Oturum Çerezleri.** Hizmetimizi çalıştırmak için Oturum Çerezleri kullanıyoruz.
+*   **Tercih Çerezleri.** Tercihlerinizi ve çeşitli ayarlarınızı hatırlamak için Tercih Çerezleri'ni kullanıyoruz.
+*   **Güvenlik Çerezleri.** Güvenlik Çerezlerini güvenlik amacıyla kullanıyoruz.
 
-Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to
-    your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and
-    scripts to collect and track information and to improve and analyze our Service.
+## Verilerin Kullanımı
+Hancı toplanan verileri çeşitli amaçlar için kullanıyor:
+*   Hizmeti sağlamak ve sürdürmek
+*   Size servisimizdeki değişiklikler hakkında bilgi vermek
+*   Tercih ettiğinizde Hizmetimizin etkileşimli özelliklerine katılmanıza izin vermek için
+*   Müşteri hizmetleri ve destek sağlamak
+*   Hizmeti iyileştirebilmemiz için analiz veya değerli bilgiler sağlamak
+*   Hizmetin kullanım miktarını izlemek için
+*   Teknik sorunları tespit etmek, önlemek ve ele almak
 
-You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do
-    not accept cookies, you may not be able to use some portions of our Service.
+## Verilerin Paylaşılması
+### Yasal Yükümlülükler
+Hancı, Kişisel Verilerinizi şu tür bir eylemin gerekli olduğu düşüncesiyle paylaşabilir:
+*   Yasal bir yükümlülüğe uymak için
+*   Hancı'nın haklarını veya mülkiyetini korumak ve savunmak
+*   Servisle ilgili olası yanlışlığı önlemek veya araştırmak için
+*   Hizmet kullanıcılarının veya halkın kişisel güvenliğini korumak
+*   Yasal sorumluluğa karşı korumak için
 
-Examples of Cookies we use:
-*   **Session Cookies.** We use Session Cookies to operate our Service.
-*   **Preference Cookies.** We use Preference Cookies to remember your preferences and various
-        settings.
-*   **Security Cookies.** We use Security Cookies for security purposes.
+## Veri Güvenliği
+Verilerinizin güvenliği bizim için önemlidir, ancak İnternet üzerinden hiçbir aktarım yönteminin veya elektronik depolama yönteminin 100% güvenli olmadığını unutmayın. Kişisel Verilerinizi korumak için ticari olarak kabul edilebilir araçları kullanmak için çaba sarf etsek de, mutlak güvenliğini garanti edemeyiz.
 
-## Usage of Data
-Hancı uses the collected data for various purposes:
-*   To provide and maintain the Service
-*   To notify you about changes to our Service
-*   To allow you to participate in interactive features of our Service when you choose to do so
-*   To provide customer care and support
-*   To provide analysis or valuable information so that we can improve the Service
-*   To monitor the usage of the Service
-*   To detect, prevent and address technical issues
+## Servis Sağlayıcıları
+Hizmetimizi kolaylaştırmak, Hizmet için bizim adımıza hizmet vermek, Hizmetle ilgili hizmetleri gerçekleştirmek veya Hizmetimizin nasıl kullanıldığını analiz etmemize yardımcı olmak için üçüncü taraf şirketleri ve bireyleri çalıştırabiliriz.
 
-## Disclosure Of Data
-### Legal Requirements
-Hancı may disclose your Personal Data in the good faith belief that such action is necessary to:
-*   To comply with a legal obligation
-*   To protect and defend the rights or property of Hancı
-*   To prevent or investigate possible wrongdoing in connection with the Service
-*   To protect the personal safety of users of the Service or the public
-*   To protect against legal liability
+Bu üçüncü taraflar, Kişisel Verilerinize yalnızca bizim adımıza bu görevleri yerine getirmek için erişebilir ve paylaşmamak veya başka bir amaç için kullanmamakla yükümlüdürler.
 
-## Security Of Data
-The security of your data is important to us, but remember that no method of transmission over the Internet, or
-    method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your
-    Personal Data, we cannot guarantee its absolute security.
-
-## Service Providers
-We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the
-    Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
-
-These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not
-    to disclose or use it for any other purpose.
-
-## Links To Other Sites
-Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you
-    will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you
-    visit.
+## Diğer Sitelere Bağlantılar
+Hizmetimiz, tarafımızca işletilmeyen diğer sitelere bağlantılar içerebilir. Bir üçüncü taraf bağlantısını tıklarsanız, o üçüncü tarafın sitesine yönlendirilirsiniz. Ziyaret ettiğiniz her sitenin Gizlilik Politikasını gözden geçirmenizi önemle tavsiye ederiz.
     
-We have no control over and assume no responsibility for the content, privacy policies or practices of any third
-    party sites or services.
+Üçüncü taraf sitelerin veya hizmetlerin içeriği, gizlilik politikaları veya uygulamaları üzerinde hiçbir kontrolümüz yoktur ve sorumluluk almayız.
 
-## Changes To This Privacy Policy
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy
-    Policy on this page.
+## Bu Gizlilik Politikasındaki Değişiklikler
+Gizlilik Politikamızı zaman zaman güncelleyebiliriz. Gizlilik Politikasını değişiklikleri bu sayfaya ekleyerek size bildireceğiz.
     
-We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and
-    update the "effective date" at the top of this Privacy Policy.
-    
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are
-    effective when they are posted on this page.
+Değişikliğin yürürlüğe girmesinden ve bu Gizlilik Politikasının en üstündeki "yürürlük tarihini" güncellemeden önce, Hizmetimiz hakkında e-posta ve/veya belirgin bir bildirim aracılığıyla size bilgi vereceğiz.
 
-## Contact Us
-If you have any questions about this Privacy Policy, please contact us:
-*   By email: <a href="mailto:info.hanci@gmail.com">info.hanci@gmail.com</a>
+Herhangi bir değişiklik için bu Gizlilik Politikasını düzenli aralıklarla gözden geçirmeniz önerilir. Bu Gizlilik Politikasındaki değişiklikler, bu sayfada yayınlandıklarında geçerlidir.
+
+## Bizimle İletişime Geçin
+Bu Gizlilik Politikası ile ilgili herhangi bir sorunuz varsa, lütfen bize ulaşın:
+*   E-posta ile: <a href="mailto:info.hanci@gmail.com">info.hanci@gmail.com</a>
