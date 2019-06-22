@@ -25,9 +25,9 @@ Hizmetimizi kullanırken, sizinle iletişim kurmak veya sizi tanımlamak için k
 #### Kullanım Verisi
 Ayrıca, Hizmetimizi her ziyaret ettiğinizde tarayıcınızın gönderdiği bilgileri veya Hizmete erişirken bir mobil cihaz aracılığıyla olan bilgileri de toplayabiliriz ("Kullanım Verileri").
 
-Bu Kullanım Verileri, bilgisayarınızın İnternet Protokolü adresi (örn. IP adresi), tarayıcı türü, tarayıcı sürümü, ziyaret ettiğiniz Servis sayfalarımız, ziyaretinizin saati ve tarihi, bu sayfalarda harcanan zaman, benzersiz cihaz tanımlayıcıları(ID) ve diğer teşhis verileri.
+Bu Kullanım Verileri, bilgisayarınızın İnternet Protokolü adresi (örn. IP adresi), tarayıcı türü, tarayıcı sürümü, ziyaret ettiğiniz Hizmet sayfalarımız, ziyaretinizin saati ve tarihi, bu sayfalarda harcanan zaman, benzersiz cihaz tanımlayıcıları(ID) ve diğer teşhis verileri.
 
-Servise bir mobil cihaz üzerinden veya bir cihaz aracılığıyla eriştiğinizde, bu Kullanım Verileri, kullandığınız mobil cihaz türü, mobil cihaz benzersiz kimliğiniz, mobil cihazınızın IP adresi, mobil işletim sisteminiz, türünüz gibi bilgileri içerebilir. kullandığınız mobil İnternet tarayıcısı, benzersiz cihaz tanımlayıcıları(ID) ve diğer tanılama verileri.
+Hizmete bir mobil cihaz üzerinden veya bir cihaz aracılığıyla eriştiğinizde, bu Kullanım Verileri, kullandığınız mobil cihaz türü, mobil cihaz benzersiz kimliğiniz, mobil cihazınızın IP adresi, mobil işletim sisteminiz, türünüz gibi bilgileri içerebilir. kullandığınız mobil İnternet tarayıcısı, benzersiz cihaz tanımlayıcıları(ID) ve diğer tanılama verileri.
 #### İzleme ve Çerez Verileri
 Hizmetimizdeki etkinliği izlemek ve belirli bilgileri tutmak için çerezleri ve benzeri izleme teknolojilerini kullanıyoruz.
 
@@ -43,7 +43,7 @@ Kullandığımız Çerezlere Örnekler:
 ## Verilerin Kullanımı
 Hancı toplanan verileri çeşitli amaçlar için kullanıyor:
 *   Hizmeti sağlamak ve sürdürmek
-*   Size servisimizdeki değişiklikler hakkında bilgi vermek
+*   Size Hizmetimizdeki değişiklikler hakkında bilgi vermek
 *   Tercih ettiğinizde Hizmetimizin etkileşimli özelliklerine katılmanıza izin vermek için
 *   Müşteri hizmetleri ve destek sağlamak
 *   Hizmeti iyileştirebilmemiz için analiz veya değerli bilgiler sağlamak
@@ -55,7 +55,7 @@ Hancı toplanan verileri çeşitli amaçlar için kullanıyor:
 Hancı, Kişisel Verilerinizi şu tür bir eylemin gerekli olduğu düşüncesiyle paylaşabilir:
 *   Yasal bir yükümlülüğe uymak için
 *   Hancı'nın haklarını veya mülkiyetini korumak ve savunmak
-*   Servisle ilgili olası yanlışlığı önlemek veya araştırmak için
+*   Hizmetle ilgili olası yanlışlığı önlemek veya araştırmak için
 *   Hizmet kullanıcılarının veya halkın kişisel güvenliğini korumak
 *   Yasal sorumluluğa karşı korumak için
 
