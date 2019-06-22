@@ -1,10 +1,4 @@
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[For Turkish version](./tr.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[For Turkish version](./tr.html)
 
 # Privacy Policy
 
@@ -14,7 +8,7 @@ Hancı ("us", "we", or "our") operates the https://hanci.app website and the Han
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our
     Service and the choices you have associated with that data. Our Privacy Policy for Hancı is created with the help of
-    the <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator.php">Free Privacy Policy Generator</a>.
+    the [Free Privacy Policy Generator](./https://www.freeprivacypolicy.com/free-privacy-policy-generator.php).
 
 We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of
     information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this
