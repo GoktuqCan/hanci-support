@@ -1,4 +1,4 @@
-[For Turkish version](./tr.html)
+[For Turkish version](./tr)
 
 # Privacy Policy
 
