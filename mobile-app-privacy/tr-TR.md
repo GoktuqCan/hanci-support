@@ -1,6 +1,6 @@
 # Gizlilik Politikası
 
-Göktuğ Can Çakmak, Hancı uygulamasını Ücretsiz uygulama olarak yaptı. Bu HİZMET Göktuğ Can Çakmak tarafından ücretsiz olarak sağlanmaktadır ve olduğu gibi kullanılması amaçlanmıştır.
+Göktuğ Can Çakmak, Hancı uygulamasını Ücretsiz uygulama olarak yapmıştır. Bu HİZMET Göktuğ Can Çakmak tarafından ücretsiz olarak sağlanmaktadır ve olduğu gibi kullanılması amaçlanmıştır.
 
 Bu sayfa, herhangi biri Hizmetimi kullanmaya karar verirse, Kişisel Bilgilerin toplanması, kullanılması ve paylaşılması konusundaki politikalarım hakkında ziyaretçileri bilgilendirmek için kullanılır.
 
