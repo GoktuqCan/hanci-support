@@ -1,3 +1,4 @@
+[For Turkish version](./tr-TR)
 # Privacy Policy
 
 Göktuğ Can Çakmak built the Hancı app as a Free app. This SERVICE is provided by Göktuğ Can Çakmak at no cost and is intended for use as is.
