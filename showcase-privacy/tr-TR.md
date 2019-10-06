@@ -1,63 +1,63 @@
 [For English version](./en-US)
-## Privacy Policy
+## Gizlilik Politikası
 
-Göktuğ Can Çakmak built the Hancı app as a Commercial app. This SERVICE is provided by Göktuğ Can Çakmak and is intended for use as is.
+Göktuğ Can Çakmak, Hancı yazılımını Ticari yazılım olarak yapmıştır. Bu HİZMET Göktuğ Can Çakmak tarafından sağlanmaktadır ve olduğu gibi kullanılması amaçlanmıştır.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+Bu sayfa, herhangi biri Hizmetimi kullanmaya karar verirse, Kişisel Bilgilerin toplanması, kullanılması ve paylaşılması konusundaki politikalarım hakkında ziyaretçileri bilgilendirmek için kullanılır.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+Hizmetimi kullanmayı seçerseniz, bu politikaya ilişkin bilgilerin toplanmasını ve kullanılmasını kabul edersiniz. Topladığım Kişisel Bilgiler, Hizmeti sağlamak ve geliştirmek için kullanılır. Bilgilerinizi bu Gizlilik Politikasında belirtilenler dışında hiç kimseyle kullanmayacağım veya paylaşmayacağım.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Hancı unless otherwise defined in this Privacy Policy.
+Bu Gizlilik Politikasında kullanılan koşullar, bu Gizlilik Politikasında aksi belirtilmedikçe, Hancı'da erişilebilen Hüküm ve Koşullarımızdaki anlamlarla aynıdır.
 
-**Information Collection and Use**
+**Bilgi Toplama ve Kullanımı**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to name, surname, e-mail, address, company name, company address. The information that I request will be retained on your device and is not collected by me in any way.
+Hizmetimizi kullanırken daha iyi bir deneyim için, bize adınızı, soyadınızı, e-postanızı, adresinizi, şirketinizin adını, şirketinizin adresini de içeren ancak bunlarla sınırlı olmayan bazı kişisel tanımlayıcı bilgiler vermenizi isteyebilirim. İstediğim bilgiler cihazınızda saklanacak ve hiçbir şekilde benim tarafımdan toplanmayacaktır.
 
-The app does use third party services that may collect information used to identify you.
+Yazılım, sizi tanımlamak için kullanılan bilgileri toplayabilen üçüncü taraf servislerini kullanıyor.
 
-Link to privacy policy of third party service providers used by the app
+Yazılım tarafından kullanılan üçüncü taraf servis sağlayıcıların gizlilik politikasına bağlantıları
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 
-**Log Data**
+**Günlük Verileri**
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+Hizmetimi ne zaman kullanırsanız, yazılımda bir hata olması durumunda cihazınızda Log Data adı verilen veri ve bilgileri (üçüncü taraf ürünleri aracılığıyla) topladığımı bildirmek isterim. Bu Günlük Verileri, cihazınızın İnternet Protokolü (“IP”) adresi, cihaz adı, işletim sistemi sürümü, Hizmetimi kullanırken yazılımın yapılandırılması, Hizmeti kullanımınızın saati ve tarihi ve diğer istatistikleri gibi bilgileri içerebilir. .
 
-**Cookies**
+**Çerezler**
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+Çerezler, genellikle anonim benzersiz tanımlayıcılar olarak kullanılan az miktarda veri içeren dosyalardır. Bunlar, ziyaret ettiğiniz web sitelerinden tarayıcınıza gönderilir ve cihazınızın dahili hafızasına kaydedilir.
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Bu Servis bu “çerezleri” açıkça kullanmamaktadır. Ancak, uygulama bilgi toplamak ve hizmetlerini iyileştirmek için “çerezleri” kullanan üçüncü taraf kodlarını ve kütüphanelerini kullanabilir. Bu çerezleri kabul etme veya reddetme ve bir çerezin cihazınıza ne zaman gönderileceğini bilme seçeneğiniz vardır. Çerezlerimizi reddetmeyi seçerseniz, bu Servisin bazı bölümlerini kullanamayabilirsiniz.
 
-**Service Providers**
+**Servis Sağlayıcıları**
 
-I may employ third-party companies and individuals due to the following reasons:
+Aşağıdaki nedenlerden dolayı üçüncü taraf şirketleri ve bireyleri kullanabilirim:
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+*   Hizmetimizi kolaylaştırmak için;
+*   Hizmeti bizim adımıza sağlamak;
+*   Servisle ilgili hizmetleri yapmak; veya
+*   Hizmetimizin nasıl kullanıldığını analiz etmemize yardımcı olmak.
 
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Bu Servisin kullanıcılarını bu üçüncü tarafların Kişisel Bilgilerinize erişimi olduğunu bildirmek istiyorum. Bunun nedeni, kendilerine verilen görevleri bizim adımıza yerine getirmektir. Ancak, bilgileri başka bir amaçla ifşa etmemek veya kullanmamak zorundadırlar.
 
-**Security**
+**Güvenlik**
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+Bize Kişisel Bilgilerinizi sağlama konusundaki güveninize değer veriyorum, bu nedenle ticari olarak kabul edilebilir korunma yollarını kullanmaya çalışıyoruz. Ancak, internet üzerinden hiçbir iletim yönteminin veya elektronik depolama yönteminin 100% güvenli ve güvenilir olmadığını ve mutlak güvenliğini garanti edemediğimi unutmayın.
 
-**Links to Other Sites**
+**Diğer Sitelere Bağlantılar**
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Bu Servis başka sitelere bağlantılar içerebilir. Üçüncü taraf bir linke tıkladığınızda, o siteye yönlendirileceksiniz. Bu harici sitelerin benim tarafımdan işletilmediğini unutmayın. Bu nedenle, bu web sitelerinin Gizlilik Politikasını gözden geçirmenizi şiddetle tavsiye ediyorum. Herhangi bir üçüncü taraf sitelerinin veya hizmetlerinin içeriği, gizlilik politikaları veya uygulamaları üzerinde hiçbir kontrolüm yoktur ve hiçbir sorumluluk üstlenmiyorum.
 
-**Children’s Privacy**
+**Çocukların Gizliliği**
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13\. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+Bu Servisler 13 yaşın altındaki hiç kimseye hitap etmemektedir. 13 yaşın altındaki çocuklardan bilerek kişisel olarak tanımlanabilir bilgiler toplamam. 13 yaşından küçük bir çocuğun bana kişisel bilgiler verdiğini keşfetmem durumunda, bunu hemen sunucularımızdan silerim. Bir ebeveyn veya veli iseniz ve çocuğunuzun bize kişisel bilgiler verdiğini biliyorsanız, gerekli işlemleri yapabilmem için lütfen benimle iletişime geçin.
 
-**Changes to This Privacy Policy**
+**Bu Gizlilik Politikasındaki Değişiklikler**
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+Gizlilik Politikamızı zaman zaman güncelleyebilirim. Bu nedenle, herhangi bir değişiklik için bu sayfayı düzenli aralıklarla gözden geçirmeniz önerilir. Bu sayfadaki yeni Gizlilik Politikasını yayınlayarak sizi herhangi bir değişiklik konusunda bilgilendireceğim. Bu değişiklikler, bu sayfada yayınlandıktan hemen sonra etkilidir.
 
-**Contact Us**
+**Bizimle İletişime Geçin**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at info.hanci@gmail.com.
+Gizlilik Politikamla ilgili herhangi bir sorunuz veya öneriniz varsa, <a target="_blank" href="mailto:info.hanci@gmail.com">info.hanci@gmail.com</a> adresinden benimle iletişim kurmaktan çekinmeyin.
 
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/)
+Bu gizlilik politikası sayfası [privacypolicytemplate.net](https://privacypolicytemplate.net) adresinde oluşturulmuş ve [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/) tarafından değiştirilmiş/oluşturulmuştur.
