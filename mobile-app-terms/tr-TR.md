@@ -24,5 +24,3 @@ Bir noktada, uygulamayı güncellemek isteyebiliriz. Uygulama şu anda açıktı
 **Bizimle İletişime Geçin**
 
 Şartlar ve Koşullarım hakkında herhangi bir sorunuz veya öneriniz varsa, <a target="_blank" href="mailto:info.hanci@gmail.com">info.hanci@gmail.com</a> adresinden benimle iletişim kurmaktan çekinmeyin.
-
-Bu Şartlar ve Koşullar sayfası [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/) tarafından oluşturuldu.
