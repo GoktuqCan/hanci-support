@@ -59,5 +59,3 @@ Gizlilik Politikamızı zaman zaman güncelleyebilirim. Bu nedenle, herhangi bir
 **Bizimle İletişime Geçin**
 
 Gizlilik Politikamla ilgili herhangi bir sorunuz veya öneriniz varsa, <a target="_blank" href="mailto:info.hanci@gmail.com">info.hanci@gmail.com</a> adresinden benimle iletişim kurmaktan çekinmeyin.
-
-Bu gizlilik politikası sayfası [privacypolicytemplate.net](https://privacypolicytemplate.net) adresinde oluşturulmuş ve [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/) tarafından değiştirilmiş/oluşturulmuştur.
