@@ -1,4 +1,3 @@
-[For English version](./en-US)
 ## Gizlilik Politikası
 
 Göktuğ Can Çakmak, Hancı yazılımını Ticari yazılım olarak yapmıştır. Bu HİZMET Göktuğ Can Çakmak tarafından sağlanmaktadır ve olduğu gibi kullanılması amaçlanmıştır.
