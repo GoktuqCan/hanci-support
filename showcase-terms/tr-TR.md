@@ -1,4 +1,3 @@
-[For English version](./en-US)
 ## Kullanım Koşulları ve Şartları
 
 Yazılımı kullanarak bu koşullar sizin için otomatik olarak uygulanacaktır - bu nedenle yazılımı kullanmadan önce bunları dikkatlice okuduğunuzdan emin olmalısınız. Yazılımı, yazılımın herhangi bir bölümünü veya ticari markalarımızı hiçbir şekilde kopyalamanıza veya değiştirmenize izin verilmez. Yazılımın kaynak kodunu çıkarmaya çalışmanıza izin verilmez ve ayrıca yazılımı diğer dillere çevirmeye ya da türev sürümler çıkarmaya çalışmamalısınız. Yazılımın kendisi ve bununla ilgili tüm ticari markalar, telif hakkı, veritabanı hakları ve diğer fikri mülkiyet hakları, halen Göktuğ Can Çakmak'a aittir.
