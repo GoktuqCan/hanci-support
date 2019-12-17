@@ -1,4 +1,3 @@
-[For Turkish version](./tr-TR)
 ## Terms & Conditions
 
 By using the software, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the software. You’re not allowed to copy, or modify the software, any part of the software, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the software, and you also shouldn’t try to translate the software into other languages, or make derivative versions. The software itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to Göktuğ Can Çakmak.
