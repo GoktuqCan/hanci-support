@@ -1,4 +1,3 @@
-[For Turkish version](./tr-TR)
 ## Privacy Policy
 
 Göktuğ Can Çakmak built the Hancı app as a Commercial app. This SERVICE is provided by Göktuğ Can Çakmak and is intended for use as is.
