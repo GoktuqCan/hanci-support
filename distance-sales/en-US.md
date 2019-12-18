@@ -9,9 +9,9 @@
 
 ###### MADDE 2.1 – SATICI BİLGİLERİ
 
-**Ünvan:** GÖKTUĞ CAN ÇAKMAK
-**Adres:** Akyazı Mh. 852. Sk. NebaPark Sitesi
-**Telefon:** 0(544) 263 41 40
+**Ünvan:** GÖKTUĞ CAN ÇAKMAK<br />
+**Adres:** Akyazı Mh. 852. Sk. NebaPark Sitesi<br />
+**Telefon:** 0(544) 263 41 40<br />
 **E-posta:** info.hanci@gmail.com
 ###### MADDE 2.2 – ALICI BİLGİLERİ
 Müşteri olarak www.hanci.app  sitesinden ödeme yapan kişi, ödeme yaparken kullanılan adres ve iletişim bilgileri esas alınır.
