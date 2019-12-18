@@ -31,7 +31,7 @@ Hizmetin türü, satış bedeli ve ödeme şekli satın alma sürecinin sonland�
 
 ###### MADDE 5 – CAYMA HAKKI
 
-**ALICI**, sözleşme konusu hizmetin kendisine veya gösterdiği adresteki kişi/kuruluşa tesliminden itibaren üç gün içinde cayma hakkına sahiptir. Cayma hakkının kullanılması için bu süre içinde** GÖKTUĞ CAN ÇAKMA**K’a e-posta ile bildirimde bulunulması şarttır. Bu belgelerin ulaşmasını takip eden yedi gün içinde ürün bedeli **ALICI**‘ya iade edilir.
+**ALICI**, sözleşme konusu hizmetin kendisine veya gösterdiği adresteki kişi/kuruluşa tesliminden itibaren üç gün içinde cayma hakkına sahiptir. Cayma hakkının kullanılması için bu süre içinde **GÖKTUĞ CAN ÇAKMAK**’a e-posta ile bildirimde bulunulması şarttır. Bu belgelerin ulaşmasını takip eden yedi gün içinde ürün bedeli **ALICI**‘ya iade edilir.
 
 Ödemenin kredi kartı veya benzeri bir ödeme kartı ile yapılması halinde **ALICI**, kartın kendi rızası dışında ve hukuka aykırı biçimde kullanıldığı gerekçesiyle ödeme işleminin iptal edilmesini talep edebilir. Bu halde, kartı çıkaran kuruluş itirazın kendisine bildirilmesinden itibaren 10 gün içinde ödeme tutarını **ALICI**’ya iade eder.
 
