@@ -25,9 +25,9 @@ CAYMA HAKKI:
 
 12.SATICININ CAYMA HAKKI BİLDİRİMİ YAPILACAK İLETİŞİM BİLGİLERİ:
 ŞİRKET 
-ADI/UNVANI: Göktuğ Can ÇAKMAK
-ADRES: Akyazı Mh. 852. Sk. NebaPark Sitesi
-EPOSTA: info.hanci@gmail.com
+ADI/UNVANI: HANCI
+ADRES: Akyazı Mah. 852 Sk. Kapı No:5-A/11 Altınordu/ORDU
+EPOSTA: goktug@hanci.app
 TEL: 0(544) 263 41 40
 
 CAYMA HAKKININ SÜRESİ:

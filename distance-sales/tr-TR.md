@@ -9,10 +9,10 @@
 
 ###### MADDE 2.1 – SATICI BİLGİLERİ
 
-**Ünvan:** GÖKTUĞ CAN ÇAKMAK<br />
-**Adres:** Akyazı Mh. 852. Sk. NebaPark Sitesi<br />
+**Ünvan:** HANCI<br />
+**Adres:** Akyazı Mah. 852 Sk. Kapı No:5-A/11 Altınordu/ORDU<br />
 **Telefon:** 0(544) 263 41 40<br />
-**E-posta:** info.hanci@gmail.com
+**E-posta:** goktug@hanci.app
 ###### MADDE 2.2 – ALICI BİLGİLERİ
 Müşteri olarak www.hanci.app  sitesinden ödeme yapan kişi, ödeme yaparken kullanılan adres ve iletişim bilgileri esas alınır.
 ###### MADDE 3 – SÖZLEŞME KONUSU HİZMET BİLGİLERİ
@@ -23,18 +23,18 @@ Hizmetin türü, satış bedeli ve ödeme şekli satın alma sürecinin sonland�
 
 4.2 – Sözleşme konusu hizmet, **ALICI**’nın aldığı hizmet türüne göre ya yasal 30 günlük süreyi aşmamak koşulu ile **ALICI**‘nın ödeme sırasında kayıt ettiği e-posta adresine açıklanan süre içinde gönderilir.
 
-4.3 – Sözleşme konusu hizmet, **ALICI**‘nın ödeme sırasında kayıt ettiği e-posta adresinden kaynaklanan sorunlar nedeni ile teslim edilememesinden **GÖKTUĞ CAN ÇAKMAK** sorumlu tutulamaz.
+4.3 – Sözleşme konusu hizmet, **ALICI**‘nın ödeme sırasında kayıt ettiği e-posta adresinden kaynaklanan sorunlar nedeni ile teslim edilememesinden **HANCI** sorumlu tutulamaz.
 
-4.4 – Sözleşme konusu hizmetin teslimatı için işbu sözleşmenin kabul edildiğine dair onayın www.aboneliksihirbazi.com internet sitesinde verilmesi ve bedelinin **ALICI**‘nın tercih ettiği ödeme şekli ile ödenmiş olması şarttır. Herhangi bir nedenle hizmet bedeli ödenmez veya banka kayıtlarında iptal edilir ise, **GÖKTUĞ CAN ÇAKMAK** ürünün teslimi yükümlülüğünden kurtulmuş kabul edilir.
+4.4 – Sözleşme konusu hizmetin teslimatı için işbu sözleşmenin kabul edildiğine dair onayın www.aboneliksihirbazi.com internet sitesinde verilmesi ve bedelinin **ALICI**‘nın tercih ettiği ödeme şekli ile ödenmiş olması şarttır. Herhangi bir nedenle hizmet bedeli ödenmez veya banka kayıtlarında iptal edilir ise, **HANCI** ürünün teslimi yükümlülüğünden kurtulmuş kabul edilir.
 
-4.5- **GÖKTUĞ CAN ÇAKMAK** mücbir sebepler nedeni ile sözleşme konusu hizmeti süresi içinde teslim edemez ise, durumu **ALICI**‘ya bildirmekle yükümlüdür. Bu takdirde **ALICI** siparişin iptal edilmesi hakkını kullanabilir. **ALICI**‘nın siparişi iptal etmesi halinde ödediği tutar 10 gün içinde kendisine nakten ve defaten ödenir.
+4.5- **HANCI** mücbir sebepler nedeni ile sözleşme konusu hizmeti süresi içinde teslim edemez ise, durumu **ALICI**‘ya bildirmekle yükümlüdür. Bu takdirde **ALICI** siparişin iptal edilmesi hakkını kullanabilir. **ALICI**‘nın siparişi iptal etmesi halinde ödediği tutar 10 gün içinde kendisine nakten ve defaten ödenir.
 
 ###### MADDE 5 – CAYMA HAKKI
 
-**ALICI**, sözleşme konusu hizmetin kendisine veya gösterdiği adresteki kişi/kuruluşa tesliminden itibaren üç gün içinde cayma hakkına sahiptir. Cayma hakkının kullanılması için bu süre içinde **GÖKTUĞ CAN ÇAKMAK**’a e-posta ile bildirimde bulunulması şarttır. Bu belgelerin ulaşmasını takip eden yedi gün içinde ürün bedeli **ALICI**‘ya iade edilir.
+**ALICI**, sözleşme konusu hizmetin kendisine veya gösterdiği adresteki kişi/kuruluşa tesliminden itibaren üç gün içinde cayma hakkına sahiptir. Cayma hakkının kullanılması için bu süre içinde **HANCI**’a e-posta ile bildirimde bulunulması şarttır. Bu belgelerin ulaşmasını takip eden yedi gün içinde ürün bedeli **ALICI**‘ya iade edilir.
 
 Ödemenin kredi kartı veya benzeri bir ödeme kartı ile yapılması halinde **ALICI**, kartın kendi rızası dışında ve hukuka aykırı biçimde kullanıldığı gerekçesiyle ödeme işleminin iptal edilmesini talep edebilir. Bu halde, kartı çıkaran kuruluş itirazın kendisine bildirilmesinden itibaren 10 gün içinde ödeme tutarını **ALICI**’ya iade eder.
 
-İşbu sözleşmenin uygulanmasında, Sanayi ve Ticaret Bakanlığınca ilan edilen değere kadar Tüketici Hakem Heyetleri ile **GÖKTUĞ CAN ÇAKMAK**’ın yerleşim yerindeki Tüketici Mahkemeleri yetkilidir.
+İşbu sözleşmenin uygulanmasında, Sanayi ve Ticaret Bakanlığınca ilan edilen değere kadar Tüketici Hakem Heyetleri ile **HANCI**’ın yerleşim yerindeki Tüketici Mahkemeleri yetkilidir.
 
 Siparişin sonuçlanması durumunda **ALICI** işbu sözleşmenin tüm koşullarını kabul etmiş sayılacaktır.

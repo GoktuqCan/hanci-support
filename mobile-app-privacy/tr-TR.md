@@ -1,7 +1,7 @@
 [For English version](./en-US)
 ## Gizlilik Politikası
 
-Göktuğ Can Çakmak, Hancı uygulamasını Ticari uygulama olarak yapmıştır. Bu HİZMET Göktuğ Can Çakmak tarafından sağlanmaktadır ve olduğu gibi kullanılması amaçlanmıştır.
+Hancı, Hancı uygulamasını Ticari uygulama olarak yapmıştır. Bu HİZMET Hancı tarafından sağlanmaktadır ve olduğu gibi kullanılması amaçlanmıştır.
 
 Bu sayfa, herhangi biri Hizmetimi kullanmaya karar verirse, Kişisel Bilgilerin toplanması, kullanılması ve paylaşılması konusundaki politikalarım hakkında ziyaretçileri bilgilendirmek için kullanılır.
 
@@ -59,4 +59,4 @@ Gizlilik Politikamızı zaman zaman güncelleyebilirim. Bu nedenle, herhangi bir
 
 **Bizimle İletişime Geçin**
 
-Gizlilik Politikamla ilgili herhangi bir sorunuz veya öneriniz varsa, <a target="_blank" href="mailto:info.hanci@gmail.com">info.hanci@gmail.com</a> adresinden benimle iletişim kurmaktan çekinmeyin.
+Gizlilik Politikamla ilgili herhangi bir sorunuz veya öneriniz varsa, <a target="_blank" href="mailto:goktug@hanci.app">goktug@hanci.app</a> adresinden benimle iletişim kurmaktan çekinmeyin.

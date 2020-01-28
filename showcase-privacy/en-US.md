@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-Göktuğ Can Çakmak built the Hancı app as a Commercial app. This SERVICE is provided by Göktuğ Can Çakmak and is intended for use as is.
+Hancı built the Hancı app as a Commercial app. This SERVICE is provided by Hancı and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -57,4 +57,4 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at <a target="_blank" href="mailto:info.hanci@gmail.com">info.hanci@gmail.com</a>.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at <a target="_blank" href="mailto:goktug@hanci.app">goktug@hanci.app</a>.

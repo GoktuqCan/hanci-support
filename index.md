@@ -105,4 +105,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 ## Contact Us
 If you have any questions about this Privacy Policy, please contact us:
-*   By email: <a href="mailto:info.hanci@gmail.com">info.hanci@gmail.com</a>
+*   By email: <a href="mailto:goktug@hanci.app">goktug@hanci.app</a>
