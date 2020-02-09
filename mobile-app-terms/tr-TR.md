@@ -1,4 +1,3 @@
-[For English version](./en-US)
 ## Kullanım Koşulları ve Şartları
 
 Uygulamayı indirerek veya kullanarak bu koşullar sizin için otomatik olarak uygulanacaktır - bu nedenle uygulamayı kullanmadan önce bunları dikkatlice okuduğunuzdan emin olmalısınız. Yazılımı, yazılımın herhangi bir bölümünü veya ticari markalarımızı hiçbir şekilde kopyalamanıza veya değiştirmenize izin verilmez. Uygulamanın kaynak kodunu çıkarmaya çalışmanıza izin verilmez ve ayrıca uygulamayı diğer dillere çevirmeye ya da türev sürümler çıkarmaya çalışmamalısınız. Uygulamanın kendisi ve bununla ilgili tüm ticari markalar, telif hakkı, veritabanı hakları ve diğer fikri mülkiyet hakları, halen Hancı'ya aittir.
