@@ -1,4 +1,3 @@
-[For Turkish version](./tr-TR)
 ## Privacy Policy
 
 Hancı built the Hancı app as a Commercial app. This SERVICE is provided by Hancı and is intended for use as is.
