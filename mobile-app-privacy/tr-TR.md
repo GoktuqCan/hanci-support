@@ -1,4 +1,3 @@
-[For English version](./en-US)
 ## Gizlilik Politikası
 
 Hancı, Hancı uygulamasını Ticari uygulama olarak yapmıştır. Bu HİZMET Hancı tarafından sağlanmaktadır ve olduğu gibi kullanılması amaçlanmıştır.
