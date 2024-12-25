@@ -1,12 +1,12 @@
 ## Gizlilik Politikası
 
-Hancı, Hancı uygulamasını Ticari uygulama olarak yapmıştır. Bu HİZMET Hancı tarafından sağlanmaktadır ve olduğu gibi kullanılması amaçlanmıştır.
+Göktuğ Can Çakmak, Unscanny uygulamasını Ticari uygulama olarak yapmıştır. Bu HİZMET Göktuğ Can Çakmak tarafından sağlanmaktadır ve olduğu gibi kullanılması amaçlanmıştır.
 
 Bu sayfa, herhangi biri Hizmetimi kullanmaya karar verirse, Kişisel Bilgilerin toplanması, kullanılması ve paylaşılması konusundaki politikalarım hakkında ziyaretçileri bilgilendirmek için kullanılır.
 
 Hizmetimi kullanmayı seçerseniz, bu politikaya ilişkin bilgilerin toplanmasını ve kullanılmasını kabul edersiniz. Topladığım Kişisel Bilgiler, Hizmeti sağlamak ve geliştirmek için kullanılır. Bilgilerinizi bu Gizlilik Politikasında belirtilenler dışında hiç kimseyle kullanmayacağım veya paylaşmayacağım.
 
-Bu Gizlilik Politikasında kullanılan koşullar, bu Gizlilik Politikasında aksi belirtilmedikçe, Hancı'da erişilebilen Hüküm ve Koşullarımızdaki anlamlarla aynıdır.
+Bu Gizlilik Politikasında kullanılan koşullar, bu Gizlilik Politikasında aksi belirtilmedikçe, Unscanny'de erişilebilen Hüküm ve Koşullarımızdaki anlamlarla aynıdır.
 
 **Bilgi Toplama ve Kullanımı**
 
@@ -58,4 +58,4 @@ Gizlilik Politikamızı zaman zaman güncelleyebilirim. Bu nedenle, herhangi bir
 
 **Bizimle İletişime Geçin**
 
-Gizlilik Politikamla ilgili herhangi bir sorunuz veya öneriniz varsa, <a target="_blank" href="mailto:goktug@hanci.app">goktug@hanci.app</a> adresinden benimle iletişim kurmaktan çekinmeyin.
+Gizlilik Politikamla ilgili herhangi bir sorunuz veya öneriniz varsa, <a target="_blank" href="mailto:goktugcancakmak94@gmail.com">goktugcancakmak94@gmail.com</a> adresinden benimle iletişim kurmaktan çekinmeyin.
