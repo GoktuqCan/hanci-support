@@ -56,6 +56,6 @@ Bu Servisler 13 yaşın altındaki hiç kimseye hitap etmemektedir. 13 yaşın a
 
 Gizlilik Politikamızı zaman zaman güncelleyebilirim. Bu nedenle, herhangi bir değişiklik için bu sayfayı düzenli aralıklarla gözden geçirmeniz önerilir. Bu sayfadaki yeni Gizlilik Politikasını yayınlayarak sizi herhangi bir değişiklik konusunda bilgilendireceğim. Bu değişiklikler, bu sayfada yayınlandıktan hemen sonra etkilidir.
 
-**Bizimle İletişime Geçin**
+### Bizimle İletişime Geçin
 
 Gizlilik Politikamla ilgili herhangi bir sorunuz veya öneriniz varsa, <a target="_blank" href="mailto:goktugcancakmak94@gmail.com">goktugcancakmak94@gmail.com</a> adresinden benimle iletişim kurmaktan çekinmeyin.
